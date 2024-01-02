@@ -1,4 +1,0 @@
-851b9944-689e-4ec0-834a-d2b4235a82b5 | admin@gmail.com | adminPassword
-9b29c61b-1f0f-4178-a31a-d094032b4155 | angelina@gmail.com | password1234
-d067c51a-7960-47bc-87ec-93001019438e | admin@gmail.com | adminPassword
-e56742d9-7962-482e-ad05-5adaadcc0242 | angelinka@gmail.com | password1234
